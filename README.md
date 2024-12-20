@@ -105,7 +105,7 @@ Ensure you have the following installed:
 
 ## Author
 
-- **Your Name** - [umdn1030@gmaiil.com]
+- **Contact** - [umdn1030@gmaiil.com]
 
 ---
 
